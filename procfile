@@ -1,0 +1,1 @@
+web: gunicorn NUciie.wsgi --log-file
